@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "Programacion"
+        },
+        {
+          "nombre": "Base de datos"
+        },
+        {
+          "nombre": "Redes"
+        }
+      ],
+      "id": "b734"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Perez",
+      "promedio": 9.5,
+      "id": "9873"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Gomez",
+      "promedio": 8.5,
+      "id": "446b"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Lopez",
+      "promedio": 7.5,
+      "id": "b45f"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duracion": 7,
+      "dificultad": "Intermedio",
+      "id": "9bfb"
+    },
+    {
+      "nombre": "Angular desde Cero",
+      "duracion": 7,
+      "dificultad": "Intermedio",
+      "id": "5d32"
+    },
+    {
+      "nombre": "React desde Cero",
+      "duracion": 7,
+      "dificultad": "Intermedio",
+      "id": "4d93"
+    }
+  ]
+}
